@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 3,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "123"
+    },
+    {
+      "username": "test",
+      "password": "$2a$10$zTl6sx7Se2jQhRmyx3z.qugjP2lrOEZvebk4D.Bq41tEAvaYUexgG",
+      "id": 2
+    },
+    {
+      "username": "test",
+      "password": "$2a$10$KN3FmvrjjFck54CIuY.9C.tpcBBuyucEmUwECJUYakhahoyKpcywS",
+      "id": 3
+    },
+    {
+      "username": "test2",
+      "password": "$2a$10$63oVenk5YHVWObDFGhSGYeEQaAwmggXdgk9vn8xq6LPOr90KAbI6i",
+      "id": 4
+    }
+  ]
+}
